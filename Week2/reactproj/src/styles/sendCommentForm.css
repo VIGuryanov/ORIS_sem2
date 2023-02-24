@@ -1,0 +1,15 @@
+.smallInputField{
+    min-width: 100px;
+    min-height: 20px;
+    width: 40%;
+    height: 5%;
+}
+.commentContentField{
+    height: 200px;
+    resize: none
+}
+.commentForm{
+    flex-direction: column;
+    display: flex;
+    max-width: 500px;
+}
